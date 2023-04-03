@@ -5,7 +5,7 @@
 to be continued
 
 ## Language and Tools
-![Flutter](https://img.shields.io/badge/-Flutter-<COLOR>?style=for-the-badge&logo=flutter)
+![Python](https://img.shields.io/badge/-Python-<COLOR>?style=for-the-badge&logo=python)
 
 ### Follow me
 

@@ -1,4 +1,4 @@
-![Header](Rostislav Vetoshkin (@rovezuka) 👋)
+## Rostislav Vetoshkin (@rovezuka) 👋
 
 
 ## About me

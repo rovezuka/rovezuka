@@ -8,7 +8,7 @@
 
 ## Language and Tools
 ![Python](https://img.shields.io/badge/-Python-<COLOR>?style=for-the-badge&logo=python)
-![Go](https://img.shields.io/badge/-Python-<COLOR>?style=for-the-badge&logo=golang)
+![Go](https://img.shields.io/badge/-Go-<COLOR>?style=for-the-badge&logo=go)
 
 ### 🌐 Socials:
 

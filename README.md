@@ -1,13 +1,16 @@
 # Rostislav Vetoshkin (@rovezuka) 👋
 
 
-## About me
-to be continued
+## 💫 About Me:
+🎓I'm ITMO student
+🎨 Exploring Backend & DevOps
+🌱 Currently learning Data Structures and Algorithms
 
 ## Language and Tools
 ![Python](https://img.shields.io/badge/-Python-<COLOR>?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/-Python-<COLOR>?style=for-the-badge&logo=golang)
 
-### Follow me
+### 🌐 Socials:
 
 ### GitHub stats
 

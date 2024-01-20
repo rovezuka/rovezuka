@@ -13,6 +13,7 @@
 [![Django](https://img.shields.io/badge/-Django-50C878?style=for-the-badge&logo=django)](https://github.com/rovezuka)
 [![Flask](https://img.shields.io/badge/-Flask-50C878?style=for-the-badge&logo=flask)](https://github.com/rovezuka)
 [![Go](https://img.shields.io/badge/-Go-50C878?style=for-the-badge&logo=go)](https://github.com/rovezuka)
+[![Ruby](https://img.shields.io/badge/-Ruby-50C878?style=for-the-badge&logo=ruby)](https://github.com/rovezuka)
 [![Sql](https://img.shields.io/badge/-sql-50C878?style=for-the-badge&logo=mysql)](https://github.com/rovezuka)
 [![Docker](https://img.shields.io/badge/-docker-50C878?style=for-the-badge&logo=docker)](https://github.com/rovezuka)
 [![Linux](https://img.shields.io/badge/-Linux-50C878?style=for-the-badge&logo=linux)](https://github.com/rovezuka)

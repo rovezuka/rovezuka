@@ -1,6 +1,3 @@
-# Rostislav Vetoshkin (@rovezuka) 👋
-
-
 ## 💫 About Me:
 🎓I'm ITMO student
 

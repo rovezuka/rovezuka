@@ -1,25 +1,23 @@
-## 💫 About Me:
-🎓I'm ITMO student
+## 💫 Обо мне:
 
-🎨 Exploring Backend & DevOps
+🎓 Магистрант НИУ ИТМО (поступил в магистратуру в 2026 году после бакалавриата)
+🛡️ QA Automation инженер в Ozon Fintech — 2\+ года опыта построения тестовой инфраструктуры для высоконагруженной платёжной системы (СБП, переводы, 20\+ микросервисов)
+🚀 Перехожу в бэкенд\-разработку на Go – прошёл программу `route256` от Ozon (основы Go, gRPC, PostgreSQL, Kafka, конкурентность)
+🤖 Пет\-проект: Telegram\-бот, который отправляет входящие задачи в Notion через его API
+🌱 Сейчас углубляю Data Structures & Algorithms и п`а`ттерны конкурентности в Go
 
-🌱 Currently learning Data Structures and Algorithms
+## 💻 Стек технологий: {#tech-stack}
 
-## 💻 Tech Stack:
-[![Python](https://img.shields.io/badge/-Python-50C878?style=for-the-badge&logo=python)](https://github.com/rovezuka)
-[![Django](https://img.shields.io/badge/-Django-50C878?style=for-the-badge&logo=django)](https://github.com/rovezuka)
-[![Flask](https://img.shields.io/badge/-Flask-50C878?style=for-the-badge&logo=flask)](https://github.com/rovezuka)
 [![Go](https://img.shields.io/badge/-Go-50C878?style=for-the-badge&logo=go)](https://github.com/rovezuka)
-[![Ruby](https://img.shields.io/badge/-Ruby-50C878?style=for-the-badge&logo=ruby)](https://github.com/rovezuka)
-[![Sql](https://img.shields.io/badge/-sql-50C878?style=for-the-badge&logo=mysql)](https://github.com/rovezuka)
-[![Docker](https://img.shields.io/badge/-docker-50C878?style=for-the-badge&logo=docker)](https://github.com/rovezuka)
+[![Python](https://img.shields.io/badge/-Python-50C878?style=for-the-badge&logo=python)](https://github.com/rovezuka)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-50C878?style=for-the-badge&logo=postgresql)](https://github.com/rovezuka)
+[![gRPC](https://img.shields.io/badge/-gRPC-50C878?style=for-the-badge&logo=grpc)](https://github.com/rovezuka)
+[![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-50C878?style=for-the-badge&logo=apachekafka)](https://github.com/rovezuka)
+[![Docker](https://img.shields.io/badge/-Docker-50C878?style=for-the-badge&logo=docker)](https://github.com/rovezuka)
+[![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-50C878?style=for-the-badge&logo=gitlab)](https://github.com/rovezuka)
+[![Allure](https://img.shields.io/badge/-Allure-50C878?style=for-the-badge&logo=allure)](https://github.com/rovezuka)
 [![Linux](https://img.shields.io/badge/-Linux-50C878?style=for-the-badge&logo=linux)](https://github.com/rovezuka)
 
-## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/-telegram-E0B0FF?style=for-the-badge&logo=telegram)](https://t.me/rost1kv)
-[![Instagram](https://img.shields.io/badge/-instagram-E0B0FF?style=for-the-badge&logo=instagram)](https://www.instagram.com/rosqwey/)
+## 🌐 Соцсети: {#socials}
 
-
-### Languages stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rovezuka&hide_progress=true)
+[![Telegram](https://img.shields.io/badge/-telegram-E0B0FF?style=for-the-badge&logo=telegram)](https://t.me/rgubaev)

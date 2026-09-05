@@ -6,8 +6,6 @@
 
 🚀 Перехожу в бэкенд\-разработку на Go – прошёл программу `route256` от Ozon (основы Go, gRPC, PostgreSQL, Kafka, конкурентность)
 
-🤖 Пет\-проект: Telegram\-бот, который отправляет входящие задачи в Notion через его API
-
 ## 💻 Стек технологий: {#tech-stack}
 
 [![Go](https://img.shields.io/badge/-Go-50C878?style=for-the-badge&logo=go)](https://github.com/rovezuka)
